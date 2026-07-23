@@ -3,6 +3,8 @@
 > **IntelliInbox.n8n** is an AI-powered SaaS workflow that automatically monitors incoming student emails, classifies their intent into **Admissions**, **Events**, or **General**, generates structured AI summaries, and routes them to the appropriate department in real-time.
 
 ---
+<img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/c13137b2-f65a-46b8-bdc0-e869e9904690" />
+
 
 ## 📸 Interface Preview & Design Language
 
