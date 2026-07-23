@@ -107,7 +107,7 @@ You do **NOT** need a paid OpenAI API key. The workflow supports multiple LLM ba
 
 ### Workflow Automation (Backend)
 - **Engine**: n8n (Cloud or Self-Hosted)
-- **File**: `triage_college_inquiry_workflow.json` (Exportable via Dashboard)
+- **File**: `Intellinbox_college_inquiry_workflow.json` (Exportable via Dashboard)
 
 ---
 
@@ -157,7 +157,7 @@ Open your browser at `http://localhost:5173/`.
 
 ### 2. Import Workflow into n8n
 
-1. In the Web App, navigate to the **n8n Visualizer** or **Setup Guide** tab and click **"Download n8n Workflow JSON"** (or export `triage_college_inquiry_workflow.json`).
+1. In the Web App, navigate to the **n8n Visualizer** or **Setup Guide** tab and click **"Download n8n Workflow JSON"** (or export `Intellinbox_college_inquiry_workflow.json`).
 2. Open your **n8n Web Editor**.
 3. Click **Workflows > Import from File** and select the downloaded `.json` file.
 
